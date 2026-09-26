@@ -44,7 +44,7 @@ export const site = {
   author: {
     shortBio: 'Autora, psicóloga social y payamédica. Su trabajo reúne literatura, sensibilidad social e inclusión.',
     longBio: 'Patricia Raquel Griff desarrolla su actividad autoral en el circuito cultural de La Matanza. Es presentada públicamente por Editorial Uno del Oeste como autora, psicóloga social y payamédica. Su libro Las aventuras del Capitán Emanuel propone una experiencia infantil que incorpora recursos de accesibilidad y distintas formas de aproximarse a la lectura.',
-    photo: '/images/autor-placeholder.svg',
+    photo: '/images/patricia-raquel-griff.svg',
   },
 
   works,
