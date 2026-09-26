@@ -7,7 +7,7 @@ const works = [
     id: 'capitan-emanuel',
     title: 'Las aventuras del Capitán Emanuel',
     subtitle: 'Una experiencia de lectura pensada también desde la accesibilidad',
-    cover: 'https://d22fxaf9t8d39k.cloudfront.net/329587a075a2a0c5efd84fc2267c0decc5063a08ce6ff0c66b8f4097e724cf77357358.jpg',
+    cover: '/images/capitan-emanuel.svg',
     synopsis: 'Un cuento infantil que amplía las formas de acercarse a una historia: combina letra ampliada, Braille, figuras tridimensionales de los personajes y del barco, y acceso a una narración en lengua de señas.',
     genre: 'Literatura infantil',
     year: '',
